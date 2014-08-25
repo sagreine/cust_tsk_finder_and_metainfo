@@ -1,0 +1,9 @@
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\bin\Release\search_and_metainfo.dll
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\bin\Release\search_and_metainfo.pdb
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.get_search_parameters_form.resources
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.Properties.Resources.resources
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.csproj.GenerateResource.Cache
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.dll
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.pdb
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.csprojResolveAssemblyReference.cache
+C:\Users\sgreiner\Documents\Visual Studio 2010\Projects\finder_and_metainfo_customtask\better_finder_pvp_wf\obj\x86\Release\search_and_metainfo.Main_Search_form.resources
